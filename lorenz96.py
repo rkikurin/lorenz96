@@ -1,5 +1,3 @@
-#Lorenz, Edward N., and Kerry A. Emanuel. "Optimal sites for supplementary weather observations: Simulation with a small model." Journal of the Atmospheric Sciences 55.3 (1998): 399-414.
-
 import numpy as np
 import matplotlib.pyplot as plt #2d plot
 import csv 
