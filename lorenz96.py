@@ -77,4 +77,5 @@ plt.xlabel( 'Time' )  #x name
 plt.ylabel( 'Number' )  #y name
 plt.contourf(X,Y,xt,interval)
 plt.colorbar()
+plt.savefig("output2.png", dpi=200)
 plt.show()
